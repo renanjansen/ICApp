@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IcApp</string>
+    <string name="mulher">mulher</string>
+    <string name="homem">homem</string>
+    <string name="calcular_ic">calcular_ic</string>
+    <string name="digite_eu_peso_ex_96">digite eu peso (Ex: 96)</string>
+    <string name="calcular_Ic">Calcular Ic</string>
+    <string name="digite_sua_altura_em_cm_ex_182">digite sua altura em cm </string>
+    <string name="digite_sua_cintura_em_cm_ex_87">digite sua cintura em cm </string>
+</resources>
